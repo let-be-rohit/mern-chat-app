@@ -33,7 +33,7 @@ const SignUp = () => {
                 </label>
                 <input 
                 type="text" 
-                placeholder='Enter Password'
+                placeholder='Create Password'
                 className='bg-slate-100 px-2 py-1 focus:outline-primary'/>
             </div><div className='flex flex-col gap-1'>
                 <label className='label p-2'>
