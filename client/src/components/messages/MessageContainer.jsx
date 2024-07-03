@@ -14,7 +14,7 @@ const MessageContainer = () => {
 
   }, [setSelectedConversation]);
   return (
-    <div className='sm:min-w-[450px] flex flex-col min-w-[300px]'>
+    <div className='sm:min-w-[450px] flex flex-col min-w-[320px]'>
       {!selectedConversation ? (
         <NoChatSelected />
       ) : (
